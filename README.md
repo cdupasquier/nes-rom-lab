@@ -1,7 +1,7 @@
 # 🧬 NES ROM Lab
 > Exploration pédagogique et interactive des ROMs Nintendo NES
 
-[![Streamlit App](https://img.shields.io/badge/🚀%20Open%20on%20Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://nes-rom-lab-cdupasquier.streamlit.app)
+[![Streamlit App](https://img.shields.io/badge/🚀%20Open%20on%20Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://nes-rom-lab.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
