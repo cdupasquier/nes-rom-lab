@@ -289,7 +289,20 @@ with tabs[9]:
     </div>
     """, unsafe_allow_html=True)
 
+st.markdown(
+    """
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker.register("static/service-worker.js");
+        });
+      }
+    </script>
 
+    <link rel="manifest" href="static/manifest.json">
+    """,
+    unsafe_allow_html=True
+)
     
     
     
