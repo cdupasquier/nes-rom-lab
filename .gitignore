@@ -1,0 +1,41 @@
+# === ENVIRONNEMENT PYTHON ===
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+*.tmp
+*.bak
+
+# === STREAMLIT / CONFIG LOCALE ===
+.streamlit/
+.secrets.toml
+
+
+
+# === ENVIRONNEMENT / IDE ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# === ARCHIVES / EXPORTS ===
+*.tar
+*.gz
+*.rar
+*.7z
+
+# === DOCUMENTATION / OUTPUT ===
+*.pdf
+*.docx
+*.xlsx
+
+# === DÉPLOIEMENT ===
+__pycache__/
+build/
+dist/
+*.spec
