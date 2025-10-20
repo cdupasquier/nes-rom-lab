@@ -1,5 +1,6 @@
 # === Interface principale ===
 streamlit>=1.36.0
+py65
 
 # === Traitement et rendu graphique ===
 numpy>=1.26.0
